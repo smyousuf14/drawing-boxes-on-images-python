@@ -1,2 +1,4 @@
 region_shape_attributes,reigion_attributes
 "{""name"":""rect"",""x1"":302,""y1"":408,""x2"":400,""y2"":500}","{""Class"":""White Knight""}"
+"{""name"":""rect"",""x1"":200,""y1"":308,""x2"":300,""y2"":300}","{""Class"":""White Knight""}"
+"{""name"":""rect"",""x1"":50,""y1"":50,""x2"":200,""y2"":200}","{""Class"":""White Knight""}"
